@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "412456745759",
+    "project_id": "bilinda-4cebd",
+    "storage_bucket": "bilinda-4cebd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412456745759:android:29eaafba64c9f4be378e2a",
+        "android_client_info": {
+          "package_name": "com.example.bilinda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412456745759-7fu5ui4fcu6smvrsfq01npk0e3ii1f47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL6OCKdKpTc9InssXRYj14PxH-AFDoWuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412456745759-7fu5ui4fcu6smvrsfq01npk0e3ii1f47.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "412456745759-1p5ku65b2j55mt496qlvpbm2d4c1hdtl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testFlutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412456745759:android:4cc32fc277434ef6378e2a",
+        "android_client_info": {
+          "package_name": "com.example.test_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412456745759-7fu5ui4fcu6smvrsfq01npk0e3ii1f47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL6OCKdKpTc9InssXRYj14PxH-AFDoWuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412456745759-7fu5ui4fcu6smvrsfq01npk0e3ii1f47.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "412456745759-1p5ku65b2j55mt496qlvpbm2d4c1hdtl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testFlutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412456745759:android:c9c953129156bc0a378e2a",
+        "android_client_info": {
+          "package_name": "com.firefliez.bilinda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412456745759-7fu5ui4fcu6smvrsfq01npk0e3ii1f47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL6OCKdKpTc9InssXRYj14PxH-AFDoWuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412456745759-7fu5ui4fcu6smvrsfq01npk0e3ii1f47.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "412456745759-1p5ku65b2j55mt496qlvpbm2d4c1hdtl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

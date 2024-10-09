@@ -1,0 +1,16 @@
+{
+  "title": "Bilida",
+  "remind": "Remind Me",
+  "weight": "Weight Chart",
+  "vaccine": "Vaccination",
+  "note": "Special Note",
+  "sighthear": "Sight & Hearing Test",
+  "schedule": "Schedule",
+  "contact": "Contact",
+  "user": "Email Address :",
+  "pass": "Password :",
+  "signin": "Sign In",
+  "signup": "Sign Up",
+  "sign": "Don't have an account?",
+  "Signinwarn": "Your email or password is incorrect."
+}
